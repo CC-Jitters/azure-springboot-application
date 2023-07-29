@@ -12,7 +12,7 @@ public class AzureSpringbootApplicationNewApplication {
 	@GetMapping("/message")
 	public String message() {
 
-		return "Congratulation! You have successfully deployed the application" ;
+		return "Congratulation! You have successfully deployed the application... ." ;
 
 	}
 
